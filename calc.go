@@ -4,8 +4,8 @@ import "fmt"
 
 func main()  {
 	val1,val2 := 2 , 3
-	addition := a+b
+	addition := val1+val2
 	multiplication := a*b
-	fmt.Println(c,d)
+	fmt.Println(addition,multiplication)
 
 }
